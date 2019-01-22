@@ -4151,11 +4151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/Загрузки/ml_learn/MlAppConformity/MlAppConformity.csproj",
+      "projectUniqueName": "/home/alex/RiderProjects/MlAppConformity/MlAppConformity.csproj",
       "projectName": "MlAppConformity",
-      "projectPath": "/home/alex/Загрузки/ml_learn/MlAppConformity/MlAppConformity.csproj",
+      "projectPath": "/home/alex/RiderProjects/MlAppConformity/MlAppConformity.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/Загрузки/ml_learn/MlAppConformity/obj/",
+      "outputPath": "/home/alex/RiderProjects/MlAppConformity/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

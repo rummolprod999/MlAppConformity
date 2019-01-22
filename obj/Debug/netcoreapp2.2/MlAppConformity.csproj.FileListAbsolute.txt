@@ -1,0 +1,11 @@
+/home/alex/Загрузки/ml_learn/MlAppConformity/obj/Debug/netcoreapp2.2/MlAppConformity.csprojAssemblyReference.cache
+/home/alex/Загрузки/ml_learn/MlAppConformity/obj/Debug/netcoreapp2.2/MlAppConformity.csproj.CoreCompileInputs.cache
+/home/alex/Загрузки/ml_learn/MlAppConformity/obj/Debug/netcoreapp2.2/MlAppConformity.AssemblyInfoInputs.cache
+/home/alex/Загрузки/ml_learn/MlAppConformity/obj/Debug/netcoreapp2.2/MlAppConformity.AssemblyInfo.cs
+/home/alex/Загрузки/ml_learn/MlAppConformity/bin/Debug/netcoreapp2.2/MlAppConformity.deps.json
+/home/alex/Загрузки/ml_learn/MlAppConformity/bin/Debug/netcoreapp2.2/MlAppConformity.runtimeconfig.json
+/home/alex/Загрузки/ml_learn/MlAppConformity/bin/Debug/netcoreapp2.2/MlAppConformity.runtimeconfig.dev.json
+/home/alex/Загрузки/ml_learn/MlAppConformity/bin/Debug/netcoreapp2.2/MlAppConformity.dll
+/home/alex/Загрузки/ml_learn/MlAppConformity/bin/Debug/netcoreapp2.2/MlAppConformity.pdb
+/home/alex/Загрузки/ml_learn/MlAppConformity/obj/Debug/netcoreapp2.2/MlAppConformity.dll
+/home/alex/Загрузки/ml_learn/MlAppConformity/obj/Debug/netcoreapp2.2/MlAppConformity.pdb

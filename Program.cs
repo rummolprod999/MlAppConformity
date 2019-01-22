@@ -32,7 +32,7 @@ namespace MlAppConformity
             var pipeline = ProcessData();
             var trainingPipeline = BuildAndTrainModel(_trainingDataView, pipeline);
             Evaluate();
-            PredictIssue();
+            PredictConformity();
         }
 
         public static EstimatorChain<ITransformer> ProcessData()
@@ -93,7 +93,7 @@ namespace MlAppConformity
             Console.WriteLine($"*************************************************************************************************************");
         }
 
-        public static void PredictIssue()
+        public static void PredictConformity()
         {
             ITransformer loadedModel;
             using (var stream = new FileStream(_modelPath, FileMode.Open, FileAccess.Read, FileShare.Read))
